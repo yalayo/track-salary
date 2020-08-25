@@ -1,1 +1,2 @@
-(ns webapp.all-tests)
+(ns webapp.all-tests
+  (:require [views.select-file-test]))
