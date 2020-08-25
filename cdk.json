@@ -1,0 +1,1 @@
+{"app":"clj -A:cdk:synth"}
